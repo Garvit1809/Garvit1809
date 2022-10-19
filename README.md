@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 ## My Contributions Graph 👇👇 
 
-<img alt="snake eating my contribution" src="https://github.com/Garvit1809/Garvit1809/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
-<img alt="snake eating my contribution" src="https://github.com/Garvit1809/Garvit1809/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+<img alt="snake eating my contribution" src="https://github.com/Garvit1809/Garvit1809/blob/output/github-contribution-grid-snake.svg">
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Garvit1809/Garvit1809/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Garvit1809/Garvit1809/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://github.com/Garvit1809/Garvit1809/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/Garvit1809/Garvit1809/output/github-contribution-grid-snake.svg#gh-light-mode-only)
