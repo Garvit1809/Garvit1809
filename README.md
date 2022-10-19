@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 ## My Contributions Graph 👇👇 
 
 ![snake gif](https://github.com/Garvit1809/Garvit1809/blob/output/github-contribution-grid-snake.gif)
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
