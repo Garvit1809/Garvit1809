@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## My Contributions Graph 👇👇 
+
+![snake gif](https://github.com/Garvit1809/Garvit1809/blob/output/github-contribution-grid-snake.gif)
