@@ -1,9 +1,8 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
+
 ### Hi there 👋
 
-<!--
-**Garvit1809/Garvit1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Garvit Varshney
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
