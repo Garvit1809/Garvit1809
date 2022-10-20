@@ -1,8 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Garvit1809.Garvit1809">
 
-### Hi there 👋
-
-## Garvit Varshney
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kushal+Tanna!;&center=true&size=30">
+  </a>
+</h1>
+<br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
