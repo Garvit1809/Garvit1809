@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Garvit1809.Garvit1809">
 
 ### Hi there 👋
 
