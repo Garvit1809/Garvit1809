@@ -24,5 +24,5 @@ My Contributions Graph 👇👇
   My Contributions Graph 👇👇 
 </h2>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Garvit1809/Garvit1809/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Garvit1809/Garvit1809/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Garvit1809/Garvit1809/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Garvit1809/Garvit1809/output/github-contribution-grid-snake.svg#gh-light-mode-only)
