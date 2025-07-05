@@ -5,15 +5,10 @@
 </h1>
 <br>
 
-## 🛠⚒ Work In Progress 🛠⚒
-
-- 🔭 I’m currently working on **Personal Projects** and **Open Source Projects**
-- 🌱 I’m currently learning **Open Source** and **DevOps**
-- 👯 I’m looking to collaborate on MERN stack projects
-- 🤔 I’m looking for help with **DSA** and **DevOps**
-- 💬 Ask me about **Frontend Development**
-- ⚡ Fun fact: I have been leaning Indian Classical music for 1.4 years😁
--->
+- Building Boomzo
+- Co Owner CoolCliQ Pvt. Ltd.
+- Living here in office lol, work, music, home gym and sleep.
+- ⚡ Fun fact: I do practice Indian Classical music, started at 17.
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
