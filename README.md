@@ -5,11 +5,7 @@
 </h1>
 <br>
 
-- Building Boomzo
-- Co Owner CoolCliQ Pvt. Ltd.
-- Living here in office lol, work, music, home gym and sleep.
-- ⚡ Fun fact: I do practice Indian Classical music, started at 17.
-
+- Boomzo | CoolCliQ
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
