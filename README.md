@@ -5,8 +5,6 @@
 </h1>
 <br>
 
-- Boomzo | CoolCliQ
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
